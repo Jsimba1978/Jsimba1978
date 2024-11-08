@@ -1,4 +1,4 @@
-## Hey 👋, This is Jsimba 
+## Hey 👋, This is Jsimba
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jsimba1978)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Jsimba1978 alt=Jsimba1978 /> </p>
